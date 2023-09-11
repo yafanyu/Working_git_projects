@@ -1,0 +1,25 @@
+---
+title: "Working with quarto and git"
+author: Yafan Yu
+date: today
+  - name: Yafan Yu
+    orcid: 
+    email: yafan.yu@huskers.unl.edu
+    affiliations:
+      -name: School of Biochemistry
+      address: 3310 Holdrege Age
+      city: Lincoln
+      state: Nebraska
+      postal-code: 68503
+format: 
+  html:
+    theme: united
+    self-contained: true
+editor: source
+---
+
+## Introduction
+
+We are going to be using a document generating framework (Quarto, built off of RMarkdown) to explore how to use git and give us a background into using Quarto to generate a document.  
+
+Lots of help can be found [here](https://quarto.org/docs/guide/)
