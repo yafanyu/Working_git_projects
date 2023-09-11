@@ -23,3 +23,18 @@ editor: source
 We are going to be using a document generating framework (Quarto, built off of RMarkdown) to explore how to use git and give us a background into using Quarto to generate a document.  
 
 Lots of help can be found [here](https://quarto.org/docs/guide/)
+
+## Packages
+
+In this lab we will work with two packages: **datasauRus** which contains the dataset we'll be using and **tidyverse** which is a collection of packages for doing data analysis in a "tidy" way. These packages are already installed for you. You can load the packages by running the following in the Console.
+
+
+```{r}
+#| label: our_first_chunk
+#| message: false
+#| warning: false
+#| eval: false
+
+library(tidyverse) 
+library(datasauRus)
+```
