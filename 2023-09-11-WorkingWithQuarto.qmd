@@ -1,16 +1,16 @@
 ---
 title: "Working with quarto and git"
-author: Yafan Yu
-date: today
+author:
   - name: Yafan Yu
     orcid: 
     email: yafan.yu@huskers.unl.edu
     affiliations:
-      -name: School of Biochemistry
-      address: 3310 Holdrege Age
-      city: Lincoln
-      state: Nebraska
-      postal-code: 68503
+      - name: School of Natural Resources
+        address: 3310 Holdrege Age
+        city: Lincoln
+        state: Nebraska
+        postal-code: 68503
+date: today
 format: 
   html:
     theme: united
